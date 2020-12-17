@@ -1,0 +1,64 @@
+body{
+    text-align: center;
+    background:linear-gradient(to right, rgba(128,250,249,100),rgba(214,161,249,100)) ;
+}
+.container h1{
+    font-family: Algerian;
+    font-size: 60px;
+    color:darkred;
+}
+.container h2{
+    font-family: Times New Roman;
+    font-size: 40px;
+    color: mediumblue;
+    font-weight: 500;
+}
+.container h3{
+    font-family: 'Roboto Slab', serif;
+    font-size:28px;
+    color: purple;
+    font-weight: 500;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+.img-responsive{
+    height:320px;
+    width: 220px;
+    border-style: solid;
+    border-width: 8px;
+    padding: 3px;
+    border-color: darkblue;
+}
+.row{
+    padding-bottom: 30px;
+}
+.img-responsive-2{
+    height:300px;
+    width:420px;
+    border-style: solid;
+    border-width: 8px;
+    padding: 3px;
+    border-color: darkblue; 
+    margin-top: 15px;
+}
+#myCarousel{
+    background-color: red;
+    padding-bottom: 30px;
+}
+#myCarousel-2{
+    background-color: red;
+    padding-bottom: 30px;
+}
+#myCarousel-3{
+    background-color: red;
+    padding-bottom: 30px;
+}
+.container{
+    text-align: center;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
